@@ -8,7 +8,7 @@
 
 ## I'm a 2nd year student at Ariel University. 
 
-- 🌱 I’m currently learning C,Python,Java 
+- 🌱 I’m currently learning C,Python,Java.
 
 ### Languages and Tools:
 
