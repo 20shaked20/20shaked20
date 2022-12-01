@@ -3,12 +3,11 @@
 >https://github.com/20shaked20
 >
 >![](https://komarev.com/ghpvc/?username=20shaked20&color=grey)
->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=20shaked20&show_icons=true&theme=vue-dark&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
-## I'm a 2nd year student at Ariel University. 
 
-- 🌱 I’m currently learning C,Python,Java.
+## I'm a 3rd year student at Ariel University. 
+
+- 🌱 Experienced in C,C++,C#,Python,Java.
 
 ### Languages and Tools:
 
